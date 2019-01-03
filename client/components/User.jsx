@@ -6,4 +6,4 @@ export default (props) => (
     <td className="user--last-name">{props.lastName}</td>
     <td className="user--email">{props.email}</td>
   </tr>
-)
+);
